@@ -1,0 +1,1 @@
+This is a readme for my first kind of big odin project. excited, looking forward to learning what im doing and how im learning. I feel like I've forgotten a couple things, but i cant wait to learn again. 
